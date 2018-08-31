@@ -4,3 +4,6 @@ This notebook is an assignment of Data Analyst Nanodegree Program on Udacity. Th
 ### Skills to develop:
 * Run A/B Test analysis on E-commerce website data to explore the relationship between users’ conversion rate and web page version. 
 * Compute P-values.
+
+### References:
+https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/more-significance-testing-videos/v/hypothesis-testing-and-p-values
